@@ -4,7 +4,7 @@ using System.IO;
 using System.Xml.Linq;
 using Newtonsoft.Json;
 
-namespace Moravia.Homework
+namespace Notino.Homework
 {
     public class Document
     {
