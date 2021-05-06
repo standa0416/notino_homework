@@ -10,4 +10,3 @@
    * odeslat výsledný soubor e-mailem (stačí pouze nástřel)
 * Napište testy
 * Refactorujte kód tak, jak by jste si představovali produkční aplikaci, která je vyvíjena a provozována vaším týmem.
-  
